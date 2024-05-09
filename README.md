@@ -4,11 +4,15 @@
 
 >src
 >>components
->>>Home
+>>>TaskForm
 >>>>Index.js
 >>>>index.css
 >
->>>Home
+>>>TaskList
+>>>>Index.js
+>>>>index.css
+>
+>>>TaskItem
 >>>>Index.js
 >>>>index.css
 

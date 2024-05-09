@@ -8,15 +8,16 @@ class TaskForm extends Component{
     }
     render(){
         return <form onSubmit={this.submitTask}>
-            <label>
+            <label htmlFor="i1">
                 Task name
             </label>
-            <input type="text"/>
-            <label>
+            <input id="i1" type="text"/>
+            <label  htmlFor="i2">
                 Task name
             </label>
+            <input id="i2" type="text"/>
             <button type="submit">Add</button>
-            <input type="text"/>
+            
         </form>
     }
 }

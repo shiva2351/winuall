@@ -1,4 +1,4 @@
-# Task Manager application
+# Frontend
 
 # Structure 
 

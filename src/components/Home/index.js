@@ -1,6 +1,6 @@
 import {Component} from "react"
 
-class TaskForm extends Component{
+class Home extends Component{
 
     submitTask=(event)=>{
         event.preventDefault()
@@ -22,4 +22,4 @@ class TaskForm extends Component{
     }
 }
 
-export default TaskForm
+export default Home

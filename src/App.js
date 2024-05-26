@@ -1,7 +1,7 @@
 
 import './App.css';
-import TaskForm from './components/TaskForm';
-import TaskList from './components/TaskList';
+import Home from './components/Home';
+import About from './components/About';
 
 function App() {
   return (
